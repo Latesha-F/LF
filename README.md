@@ -1,6 +1,14 @@
 # LaTesha F
 Aspiring Cloud Engineer with 10+ years diverse experience in HR, financial support, and continuous improvement. Proactive with a growth mindset, focused on mastery of new technology. Thrives on learning, fostering connections, fast pace, challenges, and resolving issues.
 
+---
+
+
+
+
+
+
+
 **Certifications**
 
  Azure Fundamentals AZ-900 | Microsoft Corporation
@@ -10,7 +18,9 @@ LPI Linux Essentials | A Cloud Guru
 Lean Six Sigma Foundations | Project Management Institute
   
 Leadership Foundations | NASBA
-  
+
+---
+
  **Internships**
  
 _Cybersecurity Virtual Experience | Genius Armoury_
