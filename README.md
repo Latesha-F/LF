@@ -11,7 +11,7 @@ Lean Six Sigma Foundations | Project Management Institute
   
 Leadership Foundations | NASBA
   
- **Cybersecurity Internships**
+ **Internships**
  
 _Cybersecurity Virtual Experience | Genius Armoury_
 	
