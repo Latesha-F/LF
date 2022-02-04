@@ -1,5 +1,5 @@
 
-## LaTesha Flowers
+## [LaTesha Flowers](linkedin.com/in/lf1)
 
 My current project is developing skills to become a Cloud Engineer. I have 10+ years diverse experience in Technology, HR, financial support, and customer service. I am a proactive problem-solver with a growth mindset, focused on mastery of new technology. I thrive on learning, fostering connections, change, and resolving issues.
 
