@@ -11,7 +11,7 @@ Aspiring Cloud Engineer with 10+ years diverse experience in HR, financial suppo
 
 - Fun Fact: I really enjoy learning, traveling, making friends
 
-# Certifications
+#### Certifications
 
 Azure Fundamentals AZ-900 | Microsoft Corporation
 
@@ -22,7 +22,7 @@ Lean Six Sigma Foundations | Project Management Institute
 Leadership Foundations | NASBA
 
 
-# Internships
+#### Internships
 
 Cybersecurity Virtual Experience | Genius Armoury
 
