@@ -5,16 +5,16 @@ Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, fin
 
 #### Certifications
 
-*Azure Fundamentals AZ-900* | Microsoft Corporation
-*LPI Linux Essentials* | A Cloud Guru
-*Linux OS Fundamentals* | A Cloud Guru
-*Cybersecurity Virtual Experience* | Genius Armoury
-*Cybersecurity Virtual Internship Program* | SAP
-*Cyber@ANZ Program* | ANZ
-*Power Apps 101* | TechSoup
-*Lean Six Sigma Foundations* | PMI
-*Lean Six Sigma Foundations* | PMI
-*Leadership Foundations* | NASBA
+*Azure Fundamentals AZ-900* | Microsoft Corporation <br>
+*LPI Linux Essentials* | A Cloud Guru <br>
+*Linux OS Fundamentals* | A Cloud Guru <br>
+*Cybersecurity Virtual Experience* | Genius Armoury <br>
+*Cybersecurity Virtual Internship Program* | SAP <br>
+*Cyber@ANZ Program* | ANZ <br>
+*Power Apps 101* | TechSoup <br>
+*Lean Six Sigma Foundations* | PMI <br>
+*Lean Six Sigma Foundations* | PMI <br>
+*Leadership Foundations* | NASBA <br>
 
 #### SKILLS
  
