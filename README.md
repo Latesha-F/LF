@@ -33,6 +33,8 @@ My current project is developing skills to become a Cloud Engineer. I have 10+ y
 I'm currently learning:
 -   Red Hat Ansible Automation Platform
 -   Docker
+I'm also studying for:
+-   Microsoft Identity and Access Administrator certification
     
     My 2022 goals: 
     - Gain more experience utilizing automation, CI/CD tools
