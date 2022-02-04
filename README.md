@@ -5,8 +5,8 @@ Aspiring Cloud Engineer with 10+ years diverse experience in HR, financial suppo
 
 SKILLS
  
-	Cloud Computing
-	Foundational Python
+	Cloud Computing,
+	Foundational Python,
 	Azure VM
 	Virtual Network
 	Network Security
