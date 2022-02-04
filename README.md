@@ -16,7 +16,7 @@ Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, fin
 	Lean Six Sigma Foundations | PMI
 	Leadership Foundations | NASBA
 
-####SKILLS
+#### SKILLS
  
 	Cloud Computing
 	Foundational Python
