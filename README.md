@@ -13,7 +13,6 @@ Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, fin
 *Cyber@ANZ Program* | ANZ <br>
 *Power Apps 101* | TechSoup <br>
 *Lean Six Sigma Foundations* | PMI <br>
-*Lean Six Sigma Foundations* | PMI <br>
 *Leadership Foundations* | NASBA <br>
 
 #### SKILLS
