@@ -1,7 +1,7 @@
 
 ## LaTesha Flowers
 
-Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, financial support, and customer service. Proactive with a growth mindset, focused on mastery of new technology. Thrive on learning, fostering connections, challenges, and resolving issues.
+My current project is developing skills to become a Cloud Engineer. I have 10+ years diverse experience in Technology, HR, financial support, and customer service. I am a proactive problem-solver with a growth mindset, focused on mastery of new technology. I thrive on learning, fostering connections, change, and resolving issues.
 
 #### Certifications
 
