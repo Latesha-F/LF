@@ -1,4 +1,4 @@
-# LaTesha F
+
 ### LaTesha Flowers
 
 Aspiring Cloud Engineer with 10+ years diverse experience in HR, financial support, and continuous improvement. Proactive with a growth mindset, focused on mastery of new technology. Thrives on learning, fostering connections, fast pace, challenges, and resolving issues.
