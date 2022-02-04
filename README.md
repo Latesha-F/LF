@@ -26,7 +26,7 @@ My current project is developing skills to become a Cloud Engineer. I have 10+ y
 | Ubuntu|  Linux CLI
 |Active Directory| Wireshark|
 |Subnets | BASH |
- 
+ ||SSH|
 [Python project](https://replit.com/@LateshaF/Employee-Payroll#main.py)
 
 ---
