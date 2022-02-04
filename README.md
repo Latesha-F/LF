@@ -5,7 +5,7 @@ Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, fin
 
 #### Certifications
 
-	Azure Fundamentals AZ-900 | Microsoft Corporation
+[	Azure Fundamentals AZ-900 | Microsoft Corporation ]
 	LPI Linux Essentials | A Cloud Guru
 	Linux OS Fundamentals | A Cloud Guru
 	Cybersecurity Virtual Experience | Genius Armoury
@@ -31,10 +31,10 @@ Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, fin
 	Wireshark
 	Vim	
  
-	Python project: https://replit.com/@LateshaF/Employee-Payroll#main.py
+[Python project](https://replit.com/@LateshaF/Employee-Payroll#main.py)
 
 ---
-    I'm currently learning:
+I'm currently learning:
 -   Red Hat Ansible Automation Platform
 -   Docker
     
