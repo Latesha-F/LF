@@ -1,9 +1,22 @@
 
 ### LaTesha Flowers
 
-Aspiring Cloud Engineer with 10+ years diverse experience in HR, financial support, and continuous improvement. Proactive with a growth mindset, focused on mastery of new technology. Thrives on learning, fostering connections, fast pace, challenges, and resolving issues.
+Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, financial support, and customer service. Proactive with a growth mindset, focused on mastery of new technology. Thrive on learning, fostering connections, challenges, and resolving issues.
 
-SKILLS
+#### Certifications
+
+	Azure Fundamentals AZ-900 | Microsoft Corporation
+	LPI Linux Essentials | A Cloud Guru
+	Linux OS Fundamentals | A Cloud Guru
+	Cybersecurity Virtual Experience | Genius Armoury
+	Cybersecurity Virtual Internship Program | SAP
+	Cyber@ANZ Program | ANZ
+	Power Apps 101 | TechSoup
+	Lean Six Sigma Foundations | PMI
+	Lean Six Sigma Foundations | PMI
+	Leadership Foundations | NASBA
+
+####SKILLS
  
 	Cloud Computing
 	Foundational Python
@@ -20,7 +33,7 @@ SKILLS
  
 	Python project: https://replit.com/@LateshaF/Employee-Payroll#main.py
 
-
+---
     I'm currently learning:
 -   Red Hat Ansible Automation Platform
 -   Docker
@@ -31,17 +44,7 @@ SKILLS
     - Contribute to open-source projects
 
 - Fun Fact: I really enjoy learning, traveling, making friends
-
-#### Certifications
-
-Azure Fundamentals AZ-900 | Microsoft Corporation
-
-LPI Linux Essentials | A Cloud Guru
-
-Lean Six Sigma Foundations | Project Management Institute
-
-Leadership Foundations | NASBA
-
+---
 
 #### Internships
 
