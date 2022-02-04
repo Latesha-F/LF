@@ -16,19 +16,14 @@ Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, fin
 *Leadership Foundations* | NASBA <br>
 
 #### SKILLS
- 
-	Cloud Computing
-	Foundational Python
-	Azure VM
-	Virtual Network
-	Network Security
-	Subnets
-	NIST 800-53
-	Ubuntu
-	Active Directory
-	Linux CLI
-	Wireshark
-	Vim	
+| Azure | Tools | Language | 
+|:---|:---|:---|
+|Cloud Computing|PowerShell|Foundational Python|
+|Network Security| NIST 800-53 | HTML |
+|Subnets| Vim	| CSS|
+| Ubuntu|  Linux CLI
+|Active Directory| Wireshark|
+|Azure VM | BASH |
  
 [Python project](https://replit.com/@LateshaF/Employee-Payroll#main.py)
 
