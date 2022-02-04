@@ -8,6 +8,7 @@ Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, fin
 *Azure Fundamentals AZ-900* | Microsoft Corporation <br>
 *LPI Linux Essentials* | A Cloud Guru <br>
 *Linux OS Fundamentals* | A Cloud Guru <br>
+*Python 3 Scripting for System Administrators* | A Cloud Guru <br>
 *Cybersecurity Virtual Experience* | Genius Armoury <br>
 *Cybersecurity Virtual Internship Program* | SAP <br>
 *Cyber@ANZ Program* | ANZ <br>
@@ -20,10 +21,10 @@ Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, fin
 |:---|:---|:---|
 |Cloud Computing|PowerShell|Foundational Python|
 |Network Security| NIST 800-53 | HTML |
-|Subnets| Vim	| CSS|
+|VMs| Vim	| CSS|
 | Ubuntu|  Linux CLI
 |Active Directory| Wireshark|
-|Azure VM | BASH |
+|Subnets | BASH |
  
 [Python project](https://replit.com/@LateshaF/Employee-Payroll#main.py)
 
