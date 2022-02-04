@@ -1,20 +1,20 @@
 
-### LaTesha Flowers
+## LaTesha Flowers
 
 Aspiring Cloud Engineer with 10+ years diverse experience in Technology, HR, financial support, and customer service. Proactive with a growth mindset, focused on mastery of new technology. Thrive on learning, fostering connections, challenges, and resolving issues.
 
 #### Certifications
 
-[	Azure Fundamentals AZ-900 | Microsoft Corporation ]
-	LPI Linux Essentials | A Cloud Guru
-	Linux OS Fundamentals | A Cloud Guru
-	Cybersecurity Virtual Experience | Genius Armoury
-	Cybersecurity Virtual Internship Program | SAP
-	Cyber@ANZ Program | ANZ
-	Power Apps 101 | TechSoup
-	Lean Six Sigma Foundations | PMI
-	Lean Six Sigma Foundations | PMI
-	Leadership Foundations | NASBA
+*Azure Fundamentals AZ-900* | Microsoft Corporation
+*LPI Linux Essentials* | A Cloud Guru
+*Linux OS Fundamentals* | A Cloud Guru
+*Cybersecurity Virtual Experience* | Genius Armoury
+*Cybersecurity Virtual Internship Program* | SAP
+*Cyber@ANZ Program* | ANZ
+*Power Apps 101* | TechSoup
+*Lean Six Sigma Foundations* | PMI
+*Lean Six Sigma Foundations* | PMI
+*Leadership Foundations* | NASBA
 
 #### SKILLS
  
