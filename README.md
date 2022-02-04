@@ -3,8 +3,12 @@
 
 Aspiring Cloud Engineer with 10+ years diverse experience in HR, financial support, and continuous improvement. Proactive with a growth mindset, focused on mastery of new technology. Thrives on learning, fostering connections, fast pace, challenges, and resolving issues.
 
-- I'm currently learning Red Hat Ansible Automation Platform
-- My 2022 goals: 
+- I'm currently learning 
+-   Red Hat Ansible Automation Platform
+-   Docker
+
+    
+    My 2022 goals: 
     - Gain more experience utilizing automation, CI/CD tools
     - Obtain a role that will allow me to put these skills to use, and manage projects
     - Contribute to open-source projects
