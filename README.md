@@ -3,10 +3,27 @@
 
 Aspiring Cloud Engineer with 10+ years diverse experience in HR, financial support, and continuous improvement. Proactive with a growth mindset, focused on mastery of new technology. Thrives on learning, fostering connections, fast pace, challenges, and resolving issues.
 
-- I'm currently learning 
+SKILLS
+ 
+	Cloud Computing
+	Foundational Python
+	Azure VM
+	Virtual Network
+	Network Security
+	Subnets
+	NIST 800-53
+	Ubuntu
+	Active Directory
+	Linux CLI
+	Wireshark
+	Vim	
+ 
+	Python project: https://replit.com/@LateshaF/Employee-Payroll#main.py
+
+
+    I'm currently learning:
 -   Red Hat Ansible Automation Platform
 -   Docker
-
     
     My 2022 goals: 
     - Gain more experience utilizing automation, CI/CD tools
