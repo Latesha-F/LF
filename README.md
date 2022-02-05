@@ -5,17 +5,17 @@
 My current project is developing skills to become a Cloud Engineer. I have 10+ years diverse experience in Technology, HR, financial support, and customer service. I am a proactive problem-solver with a growth mindset, focused on mastery of new technology. I thrive on learning, fostering connections, change, and resolving issues.
 
 #### Certifications
-
-*Azure Fundamentals AZ-900* | Microsoft Corporation <br>
-*LPI Linux Essentials* | A Cloud Guru <br>
-*Linux OS Fundamentals* | A Cloud Guru <br>
-*Python 3 Scripting for System Administrators* | A Cloud Guru <br>
-*Cybersecurity Virtual Experience* | Genius Armoury <br>
-*Cybersecurity Virtual Internship Program* | SAP <br>
-*Cyber@ANZ Program* | ANZ <br>
-*Power Apps 101* | TechSoup <br>
-*Lean Six Sigma Foundations* | PMI <br>
-*Leadership Foundations* | NASBA <br>
+|
+- *Azure Fundamentals AZ-900* | Microsoft Corporation <br>
+- *LPI Linux Essentials* | A Cloud Guru <br>
+- *Linux OS Fundamentals* | A Cloud Guru <br>
+- *Python 3 Scripting for System Administrators* | A Cloud Guru <br>
+- *Cybersecurity Virtual Experience* | Genius Armoury <br>
+- *Cybersecurity Virtual Internship Program* | SAP <br>
+- *Cyber@ANZ Program* | ANZ <br>
+- *Power Apps 101* | TechSoup <br>
+- *Lean Six Sigma Foundations* | PMI <br>
+- *Leadership Foundations* | NASBA <br>
 
 #### SKILLS
 | Azure | Tools | Language | 
