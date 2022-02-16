@@ -5,7 +5,6 @@
 My current project is developing skills to become a Cloud Engineer. I have 10+ years diverse experience in Technology, HR, financial support, and customer service. I am a proactive problem-solver with a growth mindset, focused on mastery of new technology. I thrive on learning, fostering connections, change, and resolving issues.
 
 #### Certifications
-|
 - *Azure Fundamentals AZ-900* | Microsoft Corporation <br>
 - *LPI Linux Essentials* | A Cloud Guru <br>
 - *Linux OS Fundamentals* | A Cloud Guru <br>
@@ -46,6 +45,14 @@ I'm also studying for:
 
 - Fun Fact: I really enjoy learning, traveling, making friends
 ---
+#### Labs
+_A Cloud Guru_
+- Created Azure virtual networks, primary, and secondary subnet
+- Created and associated a network security group
+- Created Azure Active Directory Groups
+- Added users as a members of the Group
+- Created a DevOps automated pipeline, made code changes, deployed to production
+- Created AWS groups controlled via customer-managed policies
 
 #### Internships
 
