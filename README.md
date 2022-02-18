@@ -51,7 +51,7 @@ _A Cloud Guru_
 - Created and associated a network security group
 - Created Azure Active Directory Groups
 - Added users as a members of the Group
-- Created a DevOps automated pipeline, made code changes, deployed to production
+- Created AWS DevOps automated pipeline, made code changes, deployed to production
 - Created AWS groups controlled via customer-managed policies
 
 #### Internships
