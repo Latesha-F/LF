@@ -52,8 +52,9 @@ _A Cloud Guru_
 - Created Azure Active Directory Groups
 - Added users as a members of the Group
 - Created AWS groups controlled via customer-managed policies
-- reated AWS DevOps automated pipeline, made code changes, deployed to production
-- Created AWS S3 Buckets using Resource-based Policies to prevent deletion
+- Created AWS DevOps automated pipeline, made code changes, deployed to production
+- Created AWS S3 Buckets using Resource-based Policies to prevent deletion 
+- Troubleshooting and Resolving AWS IAM errors, monitoring, auditing users and resources in AWS IAM
 
 #### Internships
 
