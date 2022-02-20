@@ -9,7 +9,7 @@ My current project is developing skills to become a Cloud Engineer. I have 10+ y
 - *LPI Linux Essentials* | A Cloud Guru <br>
 - *Linux OS Fundamentals* | A Cloud Guru <br>
 - *Python 3 Scripting for System Administrators* | A Cloud Guru <br>
-- Introduction to AWS IAM | A Cloud Guru <br>
+- *Introduction to AWS IAM* | A Cloud Guru <br>
 - *Cybersecurity Virtual Experience* | Genius Armoury <br>
 - *Cybersecurity Virtual Internship Program* | SAP <br>
 - *Cyber@ANZ Program* | ANZ <br>
@@ -59,15 +59,15 @@ _A Cloud Guru_
 
 #### Internships
 
-Cybersecurity Virtual Experience | Genius Armoury
+*Cybersecurity Virtual Experience | Genius Armoury*
 
 ➖ Threats and Exploits ➖ Networks ➖ Digital Forensics ➖ Cybersecurity Tools
 
-Cybersecurity Virtual Internship Program | SAP
+*Cybersecurity Virtual Internship Program | SAP*
 
 Analysis ➖ Password Management ➖ Industry & Impact Analysis ➖ Principles of Defense ➖ Attention to Detail Phishing ➖ Industry Standards ➖ Anti-Phishing Tactics & Techniques ➖ Impact Analysis Windows ➖ Hardening Techniques ➖ Server 2019 ➖ Compliance
 
-Cyber@ANZ Program | ANZ
+*Cyber@ANZ Program | ANZ*
 
 Analyzed PCAP packet capture files utilizing an open source Hex editor, and Wireshark, a network protocol analyzer in order to identify and investigate any potential cyber security threats:
 
