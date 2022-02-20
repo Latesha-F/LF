@@ -9,6 +9,7 @@ My current project is developing skills to become a Cloud Engineer. I have 10+ y
 - *LPI Linux Essentials* | A Cloud Guru <br>
 - *Linux OS Fundamentals* | A Cloud Guru <br>
 - *Python 3 Scripting for System Administrators* | A Cloud Guru <br>
+- *Introduction to AWS IAM | A Cloud Guru <br>
 - *Cybersecurity Virtual Experience* | Genius Armoury <br>
 - *Cybersecurity Virtual Internship Program* | SAP <br>
 - *Cyber@ANZ Program* | ANZ <br>
