@@ -18,15 +18,15 @@ My current project is developing skills to become a Cloud Engineer. I have 10+ y
 - *Leadership Foundations* | NASBA <br>
 
 #### SKILLS
-| Azure, AWS | Tools | Language | 
+| Azure, AWS | Tools & Resources  | Language & OS | 
 |:---|:---|:---|
-|Cloud Computing|PowerShell|Foundational Python|
-|Network Security| NIST 800-53 | HTML |
-|VMs| Vim	| CSS|
-|RBAC |  Linux CLI
-|Active Directory| Wireshark|
-|Subnets | BASH |
-|IAM |SSH|Ubuntu
+|Active Directory|BASH|Foundational Python|
+|CDN| Linux CLI| HTML |
+|IAM| NIST 800-53| CSS|
+|Network Security |PowerShell | Linux |
+|RBAC|SSH |Ubuntu |
+|Subnets |Vim  |
+|VMs |Wireshark	|
  
 [Python project](https://replit.com/@LateshaF/Employee-Payroll#main.py)
 
