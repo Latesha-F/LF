@@ -18,15 +18,15 @@ My current project is developing skills to become a Cloud Engineer. I have 10+ y
 - *Leadership Foundations* | NASBA <br>
 
 #### SKILLS
-| Azure | Tools | Language | 
+| Azure, AWS | Tools | Language | 
 |:---|:---|:---|
 |Cloud Computing|PowerShell|Foundational Python|
 |Network Security| NIST 800-53 | HTML |
 |VMs| Vim	| CSS|
-| Ubuntu|  Linux CLI
+|RBAC |  Linux CLI
 |Active Directory| Wireshark|
 |Subnets | BASH |
- ||SSH|
+|IAM |SSH|Ubuntu
  
 [Python project](https://replit.com/@LateshaF/Employee-Payroll#main.py)
 
@@ -51,7 +51,7 @@ _A Cloud Guru_
 - Created Azure virtual networks, primary, and secondary subnet
 - Created and associated a network security group
 - Created Azure Active Directory Groups
-- Added users as a members of the Group
+- Added users as a members of AWS Groups
 - Created AWS groups controlled via customer-managed policies
 - Created AWS DevOps automated pipeline, made code changes, deployed to production
 - Created AWS S3 Buckets using Resource-based Policies to prevent deletion 
