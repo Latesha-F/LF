@@ -2,7 +2,7 @@
 ## LaTesha Flowers
 [Let's Connect](https://www.linkedin.com/in/lf1/)
 
-My current project is developing skills to become a Cloud Engineer. I have 10+ years diverse experience in Technology, HR, financial support, and customer service. I am a proactive problem-solver with a growth mindset, focused on mastery of new technology. I thrive on learning, fostering connections, change, and resolving issues.
+My current project is developing skills to become a Cybersecurity Engineer. I have 10+ years diverse experience in Technology, HR, financial support, and customer service. I am a proactive problem-solver with a growth mindset, focused on mastery of new technology. I thrive on learning, fostering connections, change, and resolving issues.
 
 #### Certifications
 - *Azure Fundamentals AZ-900* | Microsoft Corporation <br>
@@ -30,21 +30,22 @@ My current project is developing skills to become a Cloud Engineer. I have 10+ y
  
 [Python project](https://replit.com/@LateshaF/Employee-Payroll#main.py)
 
+[Python project](https://github.com/Latesha-F/LF/assets/96099912/8142fb06-1167-4e6a-9c1e-cd41f4172c2c)
+
 ---
 I'm currently learning:
--   Red Hat Ansible Automation Platform
--   Docker
+-   Splunk
+
 
 I'm also studying for:
 -   Microsoft Identity and Access Administrator certification
--   AWS Cloud Practitioner certification
     
-    My 2022 goals: 
-    - Gain more experience utilizing automation, CI/CD tools
-    - Obtain a role that will allow me to put these skills to use, and manage projects
+    My 2023 goals: 
+    - Gain more experience utilizing SIEM tools, SOAR solutions
+    - Obtain a role that will allow me to put these skills to use
     - Contribute to open-source projects
 
-- Fun Fact: I really enjoy learning, traveling, making friends
+- Other than that: I really enjoy learning, traveling, making friends
 ---
 #### Labs
 _A Cloud Guru_
@@ -73,4 +74,4 @@ Analyzed PCAP packet capture files utilizing an open source Hex editor, and Wire
 
 ➖ Analyzed network traffic ➖ Identified file types ➖ Open source investigation ➖ Prepared analysis report
 
-Identified and investigated suspicious items sent via email: ➖ Security report writing ➖ Social Engineering concepts ➖ Digital/Open source investigation
+➖ Identified and investigated suspicious items sent via email: ➖ Security report writing ➖ Social Engineering concepts ➖ Digital/Open source investigation
