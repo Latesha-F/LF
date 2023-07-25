@@ -30,7 +30,6 @@ My current project is developing skills to become a Cybersecurity Engineer. I ha
  
 [Python project](https://replit.com/@LateshaF/Employee-Payroll#main.py)
 
-[Python project](https://github.com/Latesha-F/LF/assets/96099912/8142fb06-1167-4e6a-9c1e-cd41f4172c2c)
 
 ---
 I'm currently learning:
